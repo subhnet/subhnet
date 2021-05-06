@@ -62,24 +62,13 @@ My Email: subhransumaharana@gmail.com || <a href="https://subhnet.github.io/src/
 <details>
   <summary>⚡ More Stuff About Me!</summary>
 
-#### Profile Visits!
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nihaltowfiq.nihaltowfiq)
-
-#### GitHub Stats!
-
-![nihaltowfiq's GitHub Stats](https://github-readme-stats.nihaltowfiq.vercel.app/api?username=nihaltowfiq&show_icons=true&theme=tokyonight)
-
-#### Most Used Languages!
-
-![Top Langs](https://github-readme-stats.nihaltowfiq.vercel.app/api/top-langs/?username=nihaltowfiq&layout=compact&theme=tokyonight)
 
 </details>
 
 [website]: https://nihal.netlify.app/
-[twitter]: https://twitter.com/NihalTowfiq
-[linkedin]: https://www.linkedin.com/in/nihaltowfiq/
-[resume]: https://drive.google.com/file/d/1CyrtS0XFGD2UdMO5xvdq-Tdt6XZA2qeT/view?usp=sharing
+[twitter]: https://twitter.com/subhmaharana
+[linkedin]: https://www.linkedin.com/in/smaharana/
+[resume]: https://subhnet.github.io/src/assets/doc/Subhransu_Resume_FullStack.pdf
 
 <!-- - 🌱 I’m currently learning JavaScript, React, NodeJS. -->
-<!-- - 🥅 2021 Goals: Master at React, complete the MERN Stack, and contribute to Open Source projects. -->
+<!-- - 🥅 2021 Goals:  -->
