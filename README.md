@@ -28,7 +28,7 @@ My Email: subhransumaharana@gmail.com || <a href="https://subhnet.github.io/src/
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Java" width="26px" src="https://simple-icons.github.io/simple-icons-website/icons/java.svg" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/5060594/117230596-12fff580-ae3b-11eb-8296-f93cc8e36d6a.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
