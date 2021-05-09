@@ -1,14 +1,7 @@
 ### Hi there, I'm Subhransu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">!
 
-## I'm a Full Stack Developer, who loves to code!
+## I'm a Full Stack Engineer based in Bengaluru with 6 years of experience in the software industry. 
 
--   👯 I’m looking to collaborate with other passionate developers.
--   🥅 2021 Goals: Master at MERN Stack, Learn TypeScript, Next.js & GraphQL and contribute to Open Source projects.
--   ⚡ Fun fact: I love cycling/biking in my free time & travel to new places.
-
-I am a Full Stack developer. I know HTML5, CSS3, Bootstrap4, JavaScript (ES6), React.js, Redux, Node.js, Express.js, MongoDB.
-
-I am an expert in React.js. I have experience working with Node.js, and MongoDB for my full stack projects. I can clone a web page as like as provided design using React. I can make backend API and can integrate them with the front-end. Moreover, I am a quick learner. So, I am able to learn anything perfectly in a short time.
 
 My Email: subhransumaharana@gmail.com || <a href="https://subhnet.github.io/src/assets/doc/Subhransu_Resume_FullStack.pdf" target="_blank">My Resume/CV</a> || <a href="https://subhnet.github.io/" target="_blank">My Portfolio</a>
 
