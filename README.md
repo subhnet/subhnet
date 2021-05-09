@@ -45,17 +45,3 @@ My Email: subhransumaharana@gmail.com || <a href="https://subhnet.github.io/src/
 <br />
 
 ---
-
-<details>
-  <summary>⚡ More Stuff About Me!</summary>
-
-
-</details>
-
-[website]: https://nihal.netlify.app/
-[twitter]: https://twitter.com/subhmaharana
-[linkedin]: https://www.linkedin.com/in/smaharana/
-[resume]: https://subhnet.github.io/src/assets/doc/Subhransu_Resume_FullStack.pdf
-
-<!-- - 🌱 I’m currently learning JavaScript, React, NodeJS. -->
-<!-- - 🥅 2021 Goals:  -->
