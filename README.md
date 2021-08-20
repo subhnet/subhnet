@@ -1,7 +1,7 @@
 
-<h3 align='center'>
+<h1 align='center'>
 Hi there,<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">  I'm Subhransu_ 👩‍💻
-</h3>
+</h1>
 
 <p align="center">
 I'm a Full Stack Engineer based in Bengaluru, India with 6 years of experience in the software industry. 
