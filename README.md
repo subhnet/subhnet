@@ -9,8 +9,11 @@ My Email: subhransumaharana@gmail.com || <a href="https://subhnet.github.io/src/
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![JAVA Badge](https://img.shields.io/badge/-Java-orange?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#)
+[![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![NodeJS Badge](https://img.shields.io/badge/-NodeJS-4f9d3e?style=for-the-badge&labelColor=black&logo=node&logoColor=F0DB4F)](#)
+[![Docker badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
 
 
 #### Connect with me:
