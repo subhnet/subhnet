@@ -40,7 +40,7 @@ I'm a Full Stack Engineer based in Bengaluru, India with 6 years of experience i
 </p>
 
 <p align='center'>
-📃 <a href="https://subhnet.github.io/src/assets/doc/Subhransu_Resume_FullStack.pdf" target="_blank">My Resume/CV</a> || <a href="https://subhnet.github.io/" target="_blank">My Portfolio</a>
+📃 <a href="https://subhnet.github.io/src/assets/doc/Subhransu_Resume_FullStack.pdf" target="_blank">My Resume</a> || <a href="https://subhnet.github.io/" target="_blank">My Portfolio</a>
 </p>
 
 <p align='center'>
