@@ -54,24 +54,24 @@ I'm a Full Stack Engineer based in Bengaluru, India with 6 years of experience i
     Languages and Tools:
 </h4>
 <p align="center">
-<img alt="Java" width="26px" src="https://user-images.githubusercontent.com/5060594/117230596-12fff580-ae3b-11eb-8296-f93cc8e36d6a.png" />
-<img alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="Docker" width="26px" src="https://user-images.githubusercontent.com/5060594/117585667-3ecbf580-b131-11eb-8044-2b59646b4ad0.png" />
-<img alt="Spring" width="26px" src="https://user-images.githubusercontent.com/5060594/117585785-ed703600-b131-11eb-8214-70f11c2a01a8.png" />
-<img alt="AdobeIO" width="26px" src="https://avatars.githubusercontent.com/u/12461336?s=200&v=4" />
-<img alt="Azure" width="26px" src="https://img.icons8.com/fluency/48/000000/azure-1.png"/>
-<img alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img alt="Apache Openwhisk" width="26px" src="https://openwhisk.apache.org/images/logo/apache-openwhisk-logo-only-square.png" />
+<img title="Java" width="26px" src="https://user-images.githubusercontent.com/5060594/117230596-12fff580-ae3b-11eb-8296-f93cc8e36d6a.png" />
+<img title="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+<img title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img title="Docker" width="26px" src="https://user-images.githubusercontent.com/5060594/117585667-3ecbf580-b131-11eb-8044-2b59646b4ad0.png" />
+<img title="Spring" width="26px" src="https://user-images.githubusercontent.com/5060594/117585785-ed703600-b131-11eb-8214-70f11c2a01a8.png" />
+<img title="AdobeIO" width="26px" src="https://avatars.githubusercontent.com/u/12461336?s=200&v=4" />
+<img title="Azure" width="26px" src="https://img.icons8.com/fluency/48/000000/azure-1.png"/>
+<img title="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img title="Apache Openwhisk" width="26px" src="https://openwhisk.apache.org/images/logo/apache-openwhisk-logo-only-square.png" />
   
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 </p>
 
