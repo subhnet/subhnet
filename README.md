@@ -64,6 +64,7 @@ I'm a Full Stack Engineer based in Bengaluru, India with 6 years of experience i
 <img alt="AdobeIO" width="26px" src="https://avatars.githubusercontent.com/u/12461336?s=200&v=4" />
 <img alt="Azure" width="26px" src="https://img.icons8.com/fluency/48/000000/azure-1.png"/>
 <img alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img alt="Apache Openwhisk" width="26px" src="https://openwhisk.apache.org/images/logo/apache-openwhisk-logo-only-square.png" />
   
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
