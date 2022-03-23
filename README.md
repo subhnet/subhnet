@@ -50,6 +50,50 @@ I'm a Full Stack Engineer based in Bengaluru, India with 7 years of experience i
 
 <!-- ![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=subhnet) -->
 
+</p>
+
+<h4 align='center'>
+   Front-end
+</h4>
+  <p align='center'>
+    <a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" /></a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white&style=for-the-badge" /> </a>&nbsp;
+	<a href="#"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=for-the-badge"/> </a>&nbsp; 
+</p>
+<h4 align='center'>
+   Back-end
+</h4>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge" /></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101&style=for-the-badge" /></a>&nbsp;
+</p>
+<h4 align='center'>
+   Database
+</h4>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge" /></a>&nbsp;
+
+</p>
+<h4 align='center'>
+   Languages
+</h4>
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge" /></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" /></a>&nbsp; 
+<a href="#"><img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=for-the-badge" /></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge" /></a>&nbsp;
+</p>
+
+  
+
 <h4 align='center'>
     Languages and Tools:
 </h4>
@@ -73,7 +117,10 @@ I'm a Full Stack Engineer based in Bengaluru, India with 7 years of experience i
 <img title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-</p>
+
+
+
+
 
 <br />
 
