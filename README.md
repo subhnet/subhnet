@@ -4,7 +4,7 @@ Hi there,<img src="https://user-images.githubusercontent.com/1303154/88677602-16
 </h1>
 
 <p align="center">
-I'm a Full Stack Engineer based in Bengaluru, India with 7 years of experience in the software industry. 
+I'm a Full Stack Engineer based in Bengaluru, India with 8 years of experience in the software industry. 
 </p>
 
 <p align='center'>
