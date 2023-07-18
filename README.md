@@ -43,9 +43,11 @@ I'm a Full Stack Engineer based in Bengaluru, India with 8 years of experience i
 📃 <a href="https://subhnet.github.io/src/assets/doc/Subhransu_Resume_FullStack.pdf" target="_blank">My Resume</a> || <a href="https://subhnet.github.io/" target="_blank">My Portfolio</a>
 </p>
 
+<!--
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=subhnet&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+-->
 
 
 <!-- ![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=subhnet) -->
